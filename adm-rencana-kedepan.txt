@@ -3,3 +3,7 @@ File ini belajar branch
 - konsisten buat web programming
 - belajar terossss
 - belajar sintask
+
+Menambahkan hal baru
+- Belajar structure data
+- belajar fitur fiturnya

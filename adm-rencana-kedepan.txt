@@ -5,5 +5,8 @@ File ini belajar branch
 - belajar sintask
 
 Menambahkan hal baru
-- Belajar structure data
+- Belajar algoritma
+  ^ Brute Force
+  ^ Buble sort
+  ^ Ant COlony
 - belajar fitur fiturnya

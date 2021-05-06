@@ -8,4 +8,6 @@ Wpu resolusi
 Freamwork belajar
 -Code igniter
 -Laravel
--CSS
+ ^ CSS
+ ^ nodeJS
+ ^ PHP

@@ -4,3 +4,8 @@ Wpu resolusi
 - belajar
 - belajar terus
 - Konsisten belajar web programming
+
+Freamwork belajar
+-Code igniter
+-Laravel
+-CSS

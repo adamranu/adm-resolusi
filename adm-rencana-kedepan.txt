@@ -5,9 +5,8 @@ File ini belajar branch
 - belajar sintask
 
 Menambahkan hal baru
-- Belajar structure data
-  ^ Bee COlony
-  ^ FIFO
+- Belajar algoritma
+  ^ Brute Force
   ^ Buble sort
   ^ Ant COlony
 - belajar fitur fiturnya
